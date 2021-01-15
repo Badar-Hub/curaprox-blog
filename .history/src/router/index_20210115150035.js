@@ -50,7 +50,7 @@ const routes = [
     component: () => import(/* webpackChunkName: "about" */ '../views/SensitiveTeeth.vue')
   },
   {
-    path: '/gum-care',
+    // path: 'gum-care',
     name: 'Gum Care',
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route

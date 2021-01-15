@@ -18,7 +18,7 @@ const routes = [
     component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')
   },
   {
-    path: '/blog-cs540',
+    path: '/blog/cs540',
     name: 'Cs5460',
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
@@ -26,7 +26,7 @@ const routes = [
     component: () => import(/* webpackChunkName: "about" */ '../views/Cs5460.vue')
   },
   {
-    path: '/blog-implant',
+    path: '/blog//implant',
     name: 'Implant',
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
@@ -34,7 +34,7 @@ const routes = [
     component: () => import(/* webpackChunkName: "about" */ '../views/Implant.vue')
   },
   {
-    path: '/blog-clean-teeth',
+    path: '/blog//clean-teeth',
     name: 'Clean Teeth',
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
@@ -42,7 +42,7 @@ const routes = [
     component: () => import(/* webpackChunkName: "about" */ '../views/CleanTeeth.vue')
   },
   {
-    path: '/blog-sensitive-teeth',
+    path: '/blog//sensitive-teeth',
     name: 'Sensitive Teeth',
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
@@ -50,7 +50,7 @@ const routes = [
     component: () => import(/* webpackChunkName: "about" */ '../views/SensitiveTeeth.vue')
   },
   {
-    path: '/blog-gum-care',
+    path: '/blog//gum-care',
     name: 'Gum Care',
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route

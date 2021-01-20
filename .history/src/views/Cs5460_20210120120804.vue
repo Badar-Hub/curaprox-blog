@@ -743,6 +743,22 @@ export default {
 }
 
 .blog {
+  
+  .blog-sidebar,
+  .main-content {
+    border: 3px solid black;
+    padding: 15px;
+    background-color: #fff;
+  }
+  .main-content {
+    width: 60%;
+    height: 100%;
+  }
+
+  .blog-sidebar {
+    width: 25%;
+    height: 100%;
+  }
   h2 {
     font-size: 50px;
     font-weight: 400;

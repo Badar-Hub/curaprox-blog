@@ -31,15 +31,11 @@
         <br />
         <a href="#use-a-specialist-brush">Use a specialist brush</a>
         <br />
-        <a href="#try-these-interdental-brushes"
-          >Try these interdental brushes</a
-        >
+        <a href="#try-these-interdental-brushes">Try these interdental brushes</a>
         <br />
         <a href="#get-some-extra-help">Get some extra help</a>
         <br />
-        <a href="#care-for-your-removable-braces"
-          >Care for your removable braces</a
-        >
+        <a href="#care-for-your-removable-braces">Care for your removable braces</a>
         <br />
         <a href="#further-information">Further information</a>
       </div>
@@ -440,9 +436,7 @@
           </p>
           <p>&nbsp;</p>
           <h4>STEP THREE</h4>
-          <h2 id="try-these-interdental-brushes">
-            TRY THESE INTERDENTAL BRUSHES
-          </h2>
+          <h2 id="try-these-interdental-brushes">TRY THESE INTERDENTAL BRUSHES</h2>
 
           <img
             src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/71/need-ortho-cps-800x480.jpg"
@@ -667,9 +661,7 @@
           </p>
           <p>&nbsp;</p>
           <h4>STEP FIVE</h4>
-          <h2 id="care-for-your-removable-braces">
-            TAKE EXTRA CARE OF REMOVABLE BRACES OR RETAINERS
-          </h2>
+          <h2 id="care-for-your-removable-braces">TAKE EXTRA CARE OF REMOVABLE BRACES OR RETAINERS</h2>
 
           <img
             src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/71/need-ortho-bdc-800x480.jpg"
@@ -723,8 +715,8 @@ import Footer from "../components/layout/Footer";
 export default {
   components: {
     Header,
-    Footer,
-  },
+    Footer
+  }
 };
 </script>
 <style lang="scss" scoped>
@@ -743,6 +735,11 @@ export default {
 }
 
 .blog {
+  .blog-sidebar, .main-content {
+  border: 3px solid black;
+  padding: 15px;
+  background-color: #fff;
+  }
   h2 {
     font-size: 50px;
     font-weight: 400;

@@ -18,7 +18,7 @@
 export default {};
 </script>
 
-<style>
+<style scoped>
 .footer-af {
   background-color: #002440;
   color: white;
@@ -44,7 +44,7 @@ export default {};
 .footer-after .footer-after-inner a {
   color: white;
 }
-.footer-af p {
+p {
   display: block;
   margin-block-start: 1em;
   margin-block-end: 1em;

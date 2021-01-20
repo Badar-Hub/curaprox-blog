@@ -26,23 +26,23 @@
       <div class="col col-md-3 q-pr-md padding">
         <h3>In this guide</h3>
         <br />
-        <a href="#why-are-clean-teeth-so-important">Why are clean teeth so important?</a>
+        <a href="#">Why are clean teeth so important?</a>
         <br />
-        <a href="#six-brushing-methods">Six brushing methods:</a>
+        <a href="#">Six brushing methods:</a>
         <br />
-        <a href="#brush-teeth-quickly">1. Brush teeth quickly</a>
+        <a href="#">1. Brush teeth quickly</a>
         <br />
-        <a href="#brush-teeth-hard-with-a-hard-brush">2. Brush teeth hard with a hard brush</a>
+        <a href="#">2. Brush teeth hard with a hard brush</a>
         <br />
-        <a href="#A-thorough-gentle-brushing">3. A thorough, gentle brushing</a>
+        <a href="#">3. A thorough, gentle brushing</a>
         <br />
-        <a href="#stroke-clean-with-a-hydrosonic">4. Stroke clean with a Hydrosonic</a>
+        <a href="#">4. Stroke clean with a Hydrosonic</a>
         <br />
-        <a href="#brush-in-the-interdental-spaces">5. Brush in the interdental spaces</a>
+        <a href="#">5. Brush in the interdental spaces</a>
         <br />
-        <a href="#brush-with-the-solo-technique">6. Brush with ‘the solo technique’</a>
+        <a href="#">6. Brush with ‘the solo technique’</a>
         <br />
-        <a href="#further-information">Further information</a>
+        <a href="#">Further information</a>
       </div>
       <div class="col col-md-9 q-pl-md q-pb-xl">
         <div style="display: block;">
@@ -64,7 +64,7 @@
             </li>
           </ul>
           <h4>INTRODUCTION</h4>
-          <h2 id="why-are-clean-teeth-so-important">WHY ARE CLEAN TEETH SO IMPORTANT?</h2>
+          <h2>WHY ARE CLEAN TEETH SO IMPORTANT?</h2>
 
           <img
             src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/70/need-post-cleen-teeth-lily-2-800x480.jpg"
@@ -119,7 +119,7 @@
             you’re doing everything you can to combat gum disease and other
             dental problems.
           </p>
-          <h4 id="six-brushing-methods">SIX BRUSHING METHODS</h4>
+          <h4>SIX BRUSHING METHODS</h4>
           <h2>THE GOOD, THE BAD &amp; THE UGLY</h2>
 
           <img
@@ -152,7 +152,7 @@
             daily routine…<br /><br />… you can change your oral health – and
             overall health – forever.
           </p>
-          <h4 id="brush-teeth-quickly">METHOD 1</h4>
+          <h4>METHOD 1</h4>
           <h2>BRUSH TEETH QUICKLY</h2>
 
           <img
@@ -172,7 +172,7 @@
             difficult-to-reach areas – behind the molars and premolars, for
             example – plaque will continue to accumulate.
           </p>
-          <h4 id="brush-teeth-hard-with-a-hard-brush">METHOD 2</h4>
+          <h4>METHOD 2</h4>
           <h2>BRUSH TEETH HARD WITH A HARD BRUSH</h2>
 
           <img
@@ -193,7 +193,7 @@
             cause plaque
           </p>
           <p><strong>And now, the best brushing methods…</strong></p>
-          <h4 id="A-thorough-gentle-brushing">METHOD 3</h4>
+          <h4>METHOD 3</h4>
           <h2>A THOROUGH, GENTLE BRUSHING</h2>
 
           <img
@@ -339,7 +339,7 @@
               >Buy</a
             >
           </p>
-          <h4 id="stroke-clean-with-a-hydrosonic">METHOD 4</h4>
+          <h4>METHOD 4</h4>
           <h2>STROKE CLEAN WITH A HYDROSONIC</h2>
 
           <img
@@ -473,7 +473,7 @@
               >Buy</a
             >
           </p>
-          <h4 id="brush-in-the-interdental-spaces">METHOD 5</h4>
+          <h4>METHOD 5</h4>
           <h2>BRUSH IN THE INTERDENTAL SPACES</h2>
 
           <img
@@ -560,7 +560,7 @@
               >Buy</a
             >
           </p>
-          <h4 id="brush-with-the-solo-technique">METHOD 6</h4>
+          <h4>METHOD 6</h4>
           <h2>BRUSH WITH 'THE SOLO TECHNIQUE'</h2>
 
           <img
@@ -625,7 +625,7 @@
               >Buy</a
             >
           </p>
-          <h4 id="further-information">FURTHER INFORMATION</h4>
+          <h4>FURTHER INFORMATION</h4>
           <h2>VISIT YOUR HYGIENIST</h2>
           <p>
             So now you know the best ways to keep your teeth and gums clean and

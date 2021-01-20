@@ -20,30 +20,26 @@
       </p>
     </div>
     <div class="row home blog">
-      <div class="col col-md-3 q-pr-md padding blog-sidebar">
+      <div class="col col-md-3 q-pr-md padding">
         <h3>In this guide</h3>
         <br />
         <a href="#why-this-guide">Why this guide?</a>
         <br />
-        <a href="#braces-can-be-deficult">Why braces can be deficult</a>
+        <a href="#id="braces-can-be-deficult"">Why braces can be deficult</a>
         <br />
-        <a href="#brush-the-right-way">Brush the right way</a>
+        <a href="#">Brush the right way</a>
         <br />
-        <a href="#use-a-specialist-brush">Use a specialist brush</a>
+        <a href="#">Use a specialist brush</a>
         <br />
-        <a href="#try-these-interdental-brushes"
-          >Try these interdental brushes</a
-        >
+        <a href="#">Try these interdental brushes</a>
         <br />
-        <a href="#get-some-extra-help">Get some extra help</a>
+        <a href="#">Get some extra help</a>
         <br />
-        <a href="#care-for-your-removable-braces"
-          >Care for your removable braces</a
-        >
+        <a href="#">Care for your removable braces</a>
         <br />
-        <a href="#further-information">Further information</a>
+        <a href="#">Further information</a>
       </div>
-      <div class="col col-md-9 q-pl-md q-pb-xl main-content">
+      <div class="col col-md-9 q-pl-md q-pb-xl">
         <div style="display: block;">
           <h4 id="why-this-guide">WHY THIS GUIDE?</h4>
           <h2>HOW TO TAKE CARE OF YOUR BRACES</h2>
@@ -116,7 +112,7 @@
             >
           </p>
           <h4>STEP ONE</h4>
-          <h2 id="brush-the-right-way">BRUSH THE RIGHT WAY&nbsp;</h2>
+          <h2>BRUSH THE RIGHT WAY&nbsp;</h2>
           <h3>
             Use a brush designed for use with braces – and make sure you brush
             the right way…&nbsp;
@@ -355,7 +351,7 @@
           </p>
           <p>&nbsp;</p>
           <h4>STEP TWO</h4>
-          <h2 id="use-a-specialist-brush">USE A SPECIALIST BRUSH&nbsp;</h2>
+          <h2>USE A SPECIALIST BRUSH&nbsp;</h2>
 
           <img
             src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/71/need-ortho-cs-708-800x480.jpg"
@@ -440,9 +436,7 @@
           </p>
           <p>&nbsp;</p>
           <h4>STEP THREE</h4>
-          <h2 id="try-these-interdental-brushes">
-            TRY THESE INTERDENTAL BRUSHES
-          </h2>
+          <h2>TRY THESE INTERDENTAL BRUSHES</h2>
 
           <img
             src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/71/need-ortho-cps-800x480.jpg"
@@ -547,7 +541,7 @@
           </p>
           <p>&nbsp;</p>
           <h4>STEP FOUR</h4>
-          <h2 id="get-some-extra-help">GET SOME EXTRA HELP</h2>
+          <h2>GET SOME EXTRA HELP</h2>
           <h3>
             Our range of handy helpers for people who wear braces, retainers or
             removable aligners…
@@ -667,9 +661,7 @@
           </p>
           <p>&nbsp;</p>
           <h4>STEP FIVE</h4>
-          <h2 id="care-for-your-removable-braces">
-            TAKE EXTRA CARE OF REMOVABLE BRACES OR RETAINERS
-          </h2>
+          <h2>TAKE EXTRA CARE OF REMOVABLE BRACES OR RETAINERS</h2>
 
           <img
             src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/71/need-ortho-bdc-800x480.jpg"
@@ -703,7 +695,7 @@
             >
           </p>
           <p>&nbsp;</p>
-          <h2 id="further-information">FURTHER INFORMATION</h2>
+          <h2>FURTHER INFORMATION</h2>
           <p>
             For more information about how to look after your braces and your
             oral health during treatment ask your orthodontist.
@@ -723,8 +715,8 @@ import Footer from "../components/layout/Footer";
 export default {
   components: {
     Header,
-    Footer,
-  },
+    Footer
+  }
 };
 </script>
 <style lang="scss" scoped>

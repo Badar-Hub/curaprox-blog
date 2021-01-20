@@ -19,8 +19,8 @@
         … and feeling good about your oral health during orthodontic treatment.
       </p>
     </div>
-    <div class="row home blog">
-      <div class="col col-md-3 q-pr-md padding blog-sidebar">
+    <div class="wrapper blog">
+      <div class="blog-sidebar">
         <h3>In this guide</h3>
         <br />
         <a href="#why-this-guide">Why this guide?</a>
@@ -43,7 +43,7 @@
         <br />
         <a href="#further-information">Further information</a>
       </div>
-      <div class="col col-md-9 q-pl-md q-pb-xl main-content">
+      <div class="main-content">
         <div style="display: block;">
           <h4 id="why-this-guide">WHY THIS GUIDE?</h4>
           <h2>HOW TO TAKE CARE OF YOUR BRACES</h2>
@@ -743,6 +743,25 @@ export default {
 }
 
 .blog {
+  .wrapper {
+    display: flex;
+    justify-content: space-between;
+  }
+  .blog-sidebar,
+  .main-content {
+    border: 3px solid black;
+    padding: 15px;
+    background-color: #fff;
+  }
+  .main-content {
+    width: 60%;
+    height: 100%;
+  }
+
+  .blog-sidebar {
+    width: 25%;
+    height: 100%;
+  }
   h2 {
     font-size: 50px;
     font-weight: 400;

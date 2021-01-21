@@ -24,25 +24,27 @@
     </div>
     <div class="row home blog">
       <div class="col col-md-3 q-pr-md padding">
-        <h3>In this guide</h3>
-        <br />
-        <a href="#why-are-clean-teeth-so-important">Why are clean teeth so important?</a>
-        <br />
-        <a href="#six-brushing-methods">Six brushing methods:</a>
-        <br />
-        <a href="#brush-teeth-quickly">1. Brush teeth quickly</a>
-        <br />
-        <a href="#brush-teeth-hard-with-a-hard-brush">2. Brush teeth hard with a hard brush</a>
-        <br />
-        <a href="#A-thorough-gentle-brushing">3. A thorough, gentle brushing</a>
-        <br />
-        <a href="#stroke-clean-with-a-hydrosonic">4. Stroke clean with a Hydrosonic</a>
-        <br />
-        <a href="#brush-in-the-interdental-spaces">5. Brush in the interdental spaces</a>
-        <br />
-        <a href="#brush-with-the-solo-technique">6. Brush with ‘the solo technique’</a>
-        <br />
-        <a href="#further-information">Further information</a>
+        <div class="sticky-left-blog">
+          <h3>In this guide</h3>
+          <br />
+          <a href="#why-are-clean-teeth-so-important">Why are clean teeth so important?</a>
+          <br />
+          <a href="#six-brushing-methods">Six brushing methods:</a>
+          <br />
+          <a href="#brush-teeth-quickly">1. Brush teeth quickly</a>
+          <br />
+          <a href="#brush-teeth-hard-with-a-hard-brush">2. Brush teeth hard with a hard brush</a>
+          <br />
+          <a href="#A-thorough-gentle-brushing">3. A thorough, gentle brushing</a>
+          <br />
+          <a href="#stroke-clean-with-a-hydrosonic">4. Stroke clean with a Hydrosonic</a>
+          <br />
+          <a href="#brush-in-the-interdental-spaces">5. Brush in the interdental spaces</a>
+          <br />
+          <a href="#brush-with-the-solo-technique">6. Brush with ‘the solo technique’</a>
+          <br />
+          <a href="#further-information">Further information</a>
+        </div>
       </div>
       <div class="col col-md-9 q-pl-md q-pb-xl">
         <div style="display: block;">

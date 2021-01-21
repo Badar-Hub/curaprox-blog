@@ -25,18 +25,19 @@
       </p>
     </div>
     <div class="row home blog">
-      <div class="col col-md-3 q-pr-md padding">
-        <h3>Why this guide?</h3>
-        <br />
-        <h3>The best teeth whitening toothpaste</h3>
-        <br />
-        <h3>Whitening toothpaste that works - gently and effectively</h3>
-        <br />
-        <h3>Activated charcoal teeth whitening toothpaste for effective tooth care</h3>
-        <br />
-        <h3>How to brush your teeth</h3>
-        <br />
-        
+      <div class="col col-md-3 q-pr-md padding">  
+        <div class="sticky-left-blog">
+          <h3>Why this guide?</h3>
+          <br />
+          <h3>The best teeth whitening toothpaste</h3>
+          <br />
+          <h3>Whitening toothpaste that works - gently and effectively</h3>
+          <br />
+          <h3>Activated charcoal teeth whitening toothpaste for effective tooth care</h3>
+          <br />
+          <h3>How to brush your teeth</h3>
+          <br />
+        </div>
       </div>
       <div class="col col-md-9 q-pl-md q-pb-xl">
         <div class="text-left desctxt" style="display: block;">

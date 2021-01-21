@@ -21,19 +21,21 @@
     </div>
     <div class="row home blog">
       <div class="col col-md-3 q-pr-md padding">
-        <h3>In this guide</h3>
-        <br />
-        <a href="#">Why this guide?</a>
-        <br />
-        <a href="#">Oral health & implants</a>
-        <br />
-        <a href="#">Interdental brushes</a>
-        <br />
-        <a href="#">Dental implant cleaning toothbrush</a>
-        <br />
-        <a href="#">Sonic toothbrush for implants</a>
-        <br />
-        <a href="#">Further information</a>
+        <div class="sticky-left-blog">
+          <h3>In this guide</h3>
+          <br />
+          <a href="#">Why this guide?</a>
+          <br />
+          <a href="#">Oral health & implants</a>
+          <br />
+          <a href="#">Interdental brushes</a>
+          <br />
+          <a href="#">Dental implant cleaning toothbrush</a>
+          <br />
+          <a href="#">Sonic toothbrush for implants</a>
+          <br />
+          <a href="#">Further information</a>
+        </div>
       </div>
       <div class="col col-md-9 q-pl-md q-pb-xl">
         <div style="display: block;">

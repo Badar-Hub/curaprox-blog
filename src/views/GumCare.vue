@@ -19,21 +19,23 @@
     </div>
     <div class="row home blog">
       <div class="col col-md-3 q-pr-md padding">
-        <h3>In this guide</h3>
-        <br />
-        <a href="#">What is gum disease?</a>
-        <br />
-        <a href="#">Brush the right way</a>
-        <br />
-        <a href="#">Go sonic for healthy gums</a>
-        <br />
-        <a href="#">Interdental brushes</a>
-        <br />
-        <a href="#">Mouthwash for gum relief</a>
-        <br />
-        <a href="#">Single brush for the gumline</a>
-        <br />
-        <a href="#">Further information</a>
+        <div class="sticky-left-blog">
+          <h3>In this guide</h3>
+          <br />
+          <a href="#">What is gum disease?</a>
+          <br />
+          <a href="#">Brush the right way</a>
+          <br />
+          <a href="#">Go sonic for healthy gums</a>
+          <br />
+          <a href="#">Interdental brushes</a>
+          <br />
+          <a href="#">Mouthwash for gum relief</a>
+          <br />
+          <a href="#">Single brush for the gumline</a>
+          <br />
+          <a href="#">Further information</a>
+        </div>
       </div>
       <div class="col col-md-9 q-pl-md q-pb-xl">
         <div style="display: block;">

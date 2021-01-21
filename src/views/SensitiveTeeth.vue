@@ -22,15 +22,17 @@
     </div>
     <div class="row home blog">
       <div class="col col-md-3 q-pr-md padding">
-        <h3>In this guide</h3>
-        <br />
-        <a href="#">What causes sensitive teeth?</a>
-        <br />
-        <a href="#">Sensitive teeth toothpaste</a>
-        <br />
-        <a href="#">Toothbrushes & interdentals</a>
-        <br />
-        <a href="#">Further information</a>
+        <div class="sticky-left-blog">
+          <h3>In this guide</h3>
+          <br />
+          <a href="#">What causes sensitive teeth?</a>
+          <br />
+          <a href="#">Sensitive teeth toothpaste</a>
+          <br />
+          <a href="#">Toothbrushes & interdentals</a>
+          <br />
+          <a href="#">Further information</a>
+        </div>
       </div>
       <div class="col col-md-9 q-pl-md q-pb-xl">
         <div style="display: block;">

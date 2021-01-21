@@ -23,18 +23,20 @@
     </div>
     <div class="row home blog">
       <div class="col col-md-3 q-pr-md padding">
-        <h3>In this guide</h3>
-        <br />
-        <a href="#replace-your-toothbrush-regularly"
-          >Replace your toothbrush regularly</a
-        >
-        <br />
-        <a href="#rinse-it-every-time-and-let-it-dry">Rinse it every time and let it dry</a>
-        <br />
-        <a href="#signs-of-wear-out-on-your-toothbrush">Signs of wear out on your toothbrush</a>
-        <br />
-        <a href="#ditch-your-toothbrush-after-an-illness">Ditch your toothbrush after an illness</a>
-        <br />
+        <div class="sticky-left-blog">
+          <h3>In this guide</h3>
+          <br />
+          <a href="#replace-your-toothbrush-regularly"
+            >Replace your toothbrush regularly</a
+          >
+          <br />
+          <a href="#rinse-it-every-time-and-let-it-dry">Rinse it every time and let it dry</a>
+          <br />
+          <a href="#signs-of-wear-out-on-your-toothbrush">Signs of wear out on your toothbrush</a>
+          <br />
+          <a href="#ditch-your-toothbrush-after-an-illness">Ditch your toothbrush after an illness</a>
+          <br />
+        </div>
       </div>
       <div class="col col-md-9 q-pl-md q-pb-xl">
         <div class="text-left desctxt" style="display: block;">

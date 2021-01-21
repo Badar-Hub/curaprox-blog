@@ -17,6 +17,13 @@ export default {
 </script>
 
 <style lang="scss">
+.sticky-left-blog {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    padding: 5px;
+}
+
 @font-face {
   font-family: futura-light;
   src: url("./assets/fonts/curaprox/futurapro/futurapro_light/curaprox-font-futura_light.otf");

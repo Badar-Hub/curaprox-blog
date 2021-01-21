@@ -21,27 +21,29 @@
     </div>
     <div class="row home blog">
       <div class="col col-md-3 q-pr-md padding blog-sidebar">
-        <h3>In this guide</h3>
-        <br />
-        <a href="#why-this-guide">Why this guide?</a>
-        <br />
-        <a href="#braces-can-be-deficult">Why braces can be deficult</a>
-        <br />
-        <a href="#brush-the-right-way">Brush the right way</a>
-        <br />
-        <a href="#use-a-specialist-brush">Use a specialist brush</a>
-        <br />
-        <a href="#try-these-interdental-brushes"
-          >Try these interdental brushes</a
-        >
-        <br />
-        <a href="#get-some-extra-help">Get some extra help</a>
-        <br />
-        <a href="#care-for-your-removable-braces"
-          >Care for your removable braces</a
-        >
-        <br />
-        <a href="#further-information">Further information</a>
+        <div class="sticky-left-blog">
+          <h3>In this guide</h3>
+          <br />
+          <a href="#why-this-guide">Why this guide?</a>
+          <br />
+          <a href="#braces-can-be-deficult">Why braces can be deficult</a>
+          <br />
+          <a href="#brush-the-right-way">Brush the right way</a>
+          <br />
+          <a href="#use-a-specialist-brush">Use a specialist brush</a>
+          <br />
+          <a href="#try-these-interdental-brushes"
+            >Try these interdental brushes</a
+          >
+          <br />
+          <a href="#get-some-extra-help">Get some extra help</a>
+          <br />
+          <a href="#care-for-your-removable-braces"
+            >Care for your removable braces</a
+          >
+          <br />
+          <a href="#further-information">Further information</a>
+        </div>
       </div>
       <div class="col col-md-9 q-pl-md q-pb-xl main-content">
         <div style="display: block;">

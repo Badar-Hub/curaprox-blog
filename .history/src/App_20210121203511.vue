@@ -1,22 +1,41 @@
 <template>
-  <router-view />
+  <router-view/>
 </template>
 
 <script>
+
 export default {
-  name: "LayoutDefault",
+  name: 'LayoutDefault',
 
-  components: {},
-
-  data() {
-    return {
-      leftDrawerOpen: false,
-    };
+  components: {
   },
-};
+
+  data () {
+    return {
+      leftDrawerOpen: false
+    }
+  }
+}
 </script>
 
 <style lang="scss">
+body {
+  padding: 0;
+  margin: 0;
+  p {
+    font-family: info-light !important;
+  }
+}
+
+ul {
+  margin: auto 0 !important;
+}
+
+.row {
+  margin-right: 0 !important;
+  margin-left: 0 !important;
+}
+
 @font-face {
   font-family: futura-light;
   src: url("./assets/fonts/curaprox/futurapro/futurapro_light/curaprox-font-futura_light.otf");
@@ -95,33 +114,4 @@ export default {
   }
 }
 
-.text-h3 {
-  font-size: 57px!important;
-  letter-spacing:8px!important;
-}
-
-body {
-  padding: 0;
-  margin: 0;
-
-  h1, h2, h3, h4, h5, h6 {
-    font-family: futura-bold;
-    font-weight: 400;
-    font-style: normal;
-  }
-  p,
-  li {
-    font-family: info-light !important;
-  }
-
-  a {
-    font-family: info-light !important;
-  }
-
-  ul {
-    margin: auto 0 !important;
-  }
-}
-
-
-</style>
+</stylellann>

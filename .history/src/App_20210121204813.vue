@@ -95,19 +95,18 @@ export default {
   }
 }
 
-.text-h3 {
-  font-size: 57px!important;
-  letter-spacing:8px!important;
-}
-
 body {
   padding: 0;
   margin: 0;
 
-  h1, h2, h3, h4, h5, h6 {
-    font-family: futura-bold;
-    font-weight: 400;
-    font-style: normal;
+  h2 {
+    font-family: futura, sans-serif;;
+  }
+  h3 {
+    font-family: futura;
+  }
+  h4 {
+    font-family: futura;
   }
   p,
   li {
@@ -121,7 +120,10 @@ body {
   ul {
     margin: auto 0 !important;
   }
+
+  .row {
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+  }
 }
-
-
 </style>

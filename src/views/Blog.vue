@@ -2,7 +2,7 @@
   <div>
     <Header />
     <div class="blog-main-wrapper q-pa-md">
-      <div class="grid-row q-my-xl q-mx-auto">
+      <div @click="braces()" style="cursor:pointer" class="grid-row q-my-xl q-mx-auto">
         <div>
           <img class="bg-img-page" src="@/assets/img/blog/need-ortho-cover-800x480.jpg" />
         </div>
@@ -16,7 +16,7 @@
         </div>
       </div>
       <div class="grid-row q-my-xl q-mx-auto">
-        <div class="q-pa-sm q-mx-auto">
+        <div @click="gumCare()" style="cursor:pointer" class="q-pa-sm q-mx-auto">
           <img
             class="img-small"
             src="@/assets/img/blog/need-gumcare-800x480.jpg"
@@ -26,7 +26,7 @@
           <br />
           <h2 class="q-my-xs">TAKING CARE OF YOUR GUMS: THE ULTIMATE GUIDE</h2>
         </div>
-        <div class="q-pa-sm q-mx-auto">
+        <div @click="teethWhitening()" style="cursor:pointer" class="q-pa-sm q-mx-auto">
           <img
             class="img-small"
             src="@/assets/img/blog/need-replace-toothbrush-thumbnail-new-800x480.jpg"
@@ -36,7 +36,7 @@
           <br />
           <h2 class="q-my-xs">HOW OFTEN SHOULD YOU REPLACE YOUR TOOTHBRUSH?</h2>
         </div>
-        <div class="q-pa-sm q-mx-auto">
+        <div @click="cleanTeeth()" style="cursor:pointer" class="q-pa-sm q-mx-auto">
           <img
             class="img-small"
             src="@/assets/img/blog/need-post-cleen-teeth-lily-1-800x480.jpg"
@@ -65,7 +65,7 @@
         <div class="col col-sm-8 col-xs-12 q-pa-md">
           <h3>Featured Posts</h3>
           <br />
-          <div class="row">
+          <div @click="teethWhitening()" style="cursor:pointer" class="row">
             <div class="col col-xs-12 col-sm-4">
               <img
                 src="@/assets/img/blog/need-post-whitening-new-800x480-web.jpg"
@@ -89,7 +89,7 @@
             </div>
           </div>
           <br />
-          <div class="row">
+          <div @click="sensitiveTeeth()" style="cursor:pointer" class="row">
             <div class="container-image">
               <img title="Sensitive Teeth: The Ultimate Guide" src="@/assets/img/blog/need-post-sensitive-teeth-florian-1-800x480.jpg"/>
               <div class="center">
@@ -137,7 +137,7 @@
             </div>
           </div>
           <br />
-          <div class="row">
+          <div @click="implant()" style="cursor:pointer" class="row">
             <div class="col-xs-12 col-sm-4">
               <img
                 src="@/assets/img/blog/need-implant-800x480.jpg"
@@ -160,6 +160,26 @@ import Footer from "../components/layout/Footer.vue";
 import Header from "../components/layout/Header.vue";
 export default {
   components: { Header, Footer },
+  methods: {
+    braces() {
+      this.$router.push("braces")
+    },
+    gumCare(){
+      this.$router.push("gum-care")
+    },
+    cleanTeeth(){
+      this.$router.push("clean-teeth")
+    },
+    sensitiveTeeth(){
+      this.$router.push("sensitive-teeth")
+    },
+    teethWhitening(){
+      this.$router.push("teeth-whitening")
+    },
+    implant(){
+      this.$router.push("implant")
+    }
+  }
 };
 </script>
 

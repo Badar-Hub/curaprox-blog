@@ -18,7 +18,7 @@
       </p>
     </div>
     <div class="row home blog">
-      <div class="col col-md-3 q-pr-md padding">
+      <div class="col col-sm-3 q-pr-md padding none-display">
         <div class="sticky-left-blog">
           <h3>In this guide</h3>
           <br />
@@ -37,7 +37,7 @@
           <a href="#">Further information</a>
         </div>
       </div>
-      <div class="col col-md-9 q-pl-md q-pb-xl">
+      <div class="col col-xs-12 col-sm-9 q-px-md q-pb-xl main-content">
         <div style="display: block;">
           <h2>CARING FOR YOUR GUMS</h2>
           <p><strong>You’ve come to the right place if:</strong></p>
@@ -206,31 +206,16 @@
           </p>
           <h3>We recommend:</h3>
 
-          <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/65/curaprox-related-product-cs-5460-drio-300x250.jpg"
-            alt=""
+          <TextBlockWithImg
+            img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/65/curaprox-related-product-cs-5460-drio-300x250.jpg"
+            h3Text="CURAPROX CS 5460 TOOTHBRUSH"
           />
 
-          <h2>CURAPROX CS 5460 TOOTHBRUSH</h2>
-          <p>
-            <a
-              href="https://curaprox.ch/en/shop/toothbrushes/manual-toothbrushes/cs-5460"
-              >Buy</a
-            >
-          </p>
-
-          <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/65/curaprox-related-product-toothpaste-enzycal-400x250.png"
-            alt=""
+          <TextBlockWithImg
+            img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/65/curaprox-related-product-toothpaste-enzycal-400x250.png"
+            h3Text="CURAPROX ENZYCAL 1450 TOOTHPASTE"
           />
 
-          <h2>CURAPROX ENZYCAL 1450 TOOTHPASTE</h2>
-          <p>
-            <a
-              href="https://curaprox.ch/en/shop/toothpaste/enzycal/enzycal-1450-75-ml"
-              >Buy</a
-            >
-          </p>
           <h4>STEP THREE</h4>
           <h2>GO SONIC FOR HEALTHY GUMS</h2>
 
@@ -260,25 +245,17 @@
             can take right up to the edges of the gums to treat or prevent
             inflamed periodontal tissue and gums.<br /><br />&nbsp;
           </p>
+          <q-btn
+            label="Video for professional teeth-cleaning"
+            flat
+            size="14px"
+          />
           <p>
             <a href="https://youtu.be/XrkjOu-8Ot4"
               >Video for professional teeth-cleaning</a
             >
           </p>
-          <h3>We recommend:<br />&nbsp;</h3>
 
-          <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/65/curaprox-related-product-sonic-toothbrush-pro-400x250.png"
-            alt=""
-          />
-
-          <h2>CURAPROX HYDROSONIC PRO SONIC TOOTHBRUSH</h2>
-          <p>
-            <a
-              href="https://curaprox.ch/en/shop/sonic-toothbrush/hydrosonic/hydrosonic-pro-set"
-              >Buy</a
-            >
-          </p>
           <h4>STEP FOUR</h4>
           <h2>INTERDENTAL BRUSHES</h2>
 
@@ -339,18 +316,11 @@
           </p>
           <h3>We recommend:</h3>
 
-          <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/65/curaprox-related-product-idb-300x250.jpg"
-            alt=""
+          <TextBlockWithImg
+            img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/65/curaprox-related-product-idb-300x250.jpg"
+            h3Text="CURAPROX CPS PRIME INTERDENTAL BRUSHES"
           />
 
-          <h2>CURAPROX CPS PRIME INTERDENTAL BRUSHES</h2>
-          <p>
-            <a
-              href="https://curaprox.ch/en/shop/interdental/interdental-brushes"
-              >Buy</a
-            >
-          </p>
           <h4>STEP FIVE</h4>
           <h2>MOUTHWASH FOR GUM RELIEF</h2>
 
@@ -380,18 +350,11 @@
           </p>
           <h3>We recommend</h3>
 
-          <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/65/curaprox-need-gumcare-recommended-300x250.png"
-            alt=""
+          <TextBlockWithImg
+            img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/65/curaprox-need-gumcare-recommended-300x250.png"
+            h3Text="CURAPROX PERIO PLUS+ REGENERATE"
           />
 
-          <h2>CURAPROX PERIO PLUS+ REGENERATE</h2>
-          <p>
-            <a
-              href="https://curaprox.ch/en/shop/oral-rinses-and-gels/oral-rinses/perioplus-regenerate"
-              >Buy</a
-            >
-          </p>
           <h4>STEP SIX</h4>
           <h2>SINGLE BRUSH FOR THE GUMLINE</h2>
 
@@ -457,18 +420,11 @@
           </p>
           <h3>We recommend</h3>
 
-          <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/65/curaprox-related-product-toothbrush-single-green-pink-300x250.jpg"
-            alt=""
+          <TextBlockWithImg
+            img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/65/curaprox-related-product-toothbrush-single-green-pink-300x250.jpg"
+            h3Text="CURAPROX CS 1006 SINGLE BRUSH"
           />
 
-          <h2>CURAPROX CS 1006 SINGLE BRUSH</h2>
-          <p>
-            <a
-              href="https://curaprox.ch/en/shop/toothbrushes/single-tuft-toothbrushes/cs-1006"
-              >Buy</a
-            >
-          </p>
           <h4>FURTHER INFORMATION</h4>
           <h2>GUM CARE &amp; OVERALL HEALTH</h2>
 
@@ -502,12 +458,14 @@
 
 <script>
 import Header from "../components/layout/Header";
+import TextBlockWithImg from "../components/General/txtImg.vue";
 import Footer from "../components/layout/Footer";
 // @ is an alias to /src
 
 export default {
   components: {
     Header,
+    TextBlockWithImg,
     Footer
   }
 };

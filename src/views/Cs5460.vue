@@ -20,7 +20,7 @@
       </p>
     </div>
     <div class="row home blog">
-      <div class="col col-md-3 q-pr-md padding blog-sidebar">
+      <div class="col col-sm-3 q-pr-md padding blog-sidebar none-display">
         <div class="sticky-left-blog">
           <h3>In this guide</h3>
           <br />
@@ -45,7 +45,7 @@
           <a href="#further-information">Further information</a>
         </div>
       </div>
-      <div class="col col-md-9 q-pl-md q-pb-xl main-content">
+      <div class="col col-xs-12 col-sm-9 q-px-md q-pb-xl main-content">
         <div style="display: block;">
           <h4 id="why-this-guide">WHY THIS GUIDE?</h4>
           <h2>HOW TO TAKE CARE OF YOUR BRACES</h2>

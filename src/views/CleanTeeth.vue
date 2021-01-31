@@ -23,30 +23,42 @@
       </p>
     </div>
     <div class="row home blog">
-      <div class="col col-md-3 q-pr-md padding">
+      <div class="col col-sm-3 q-pr-md padding none-display">
         <div class="sticky-left-blog">
           <h3>In this guide</h3>
           <br />
-          <a href="#why-are-clean-teeth-so-important">Why are clean teeth so important?</a>
+          <a href="#why-are-clean-teeth-so-important"
+            >Why are clean teeth so important?</a
+          >
           <br />
           <a href="#six-brushing-methods">Six brushing methods:</a>
           <br />
           <a href="#brush-teeth-quickly">1. Brush teeth quickly</a>
           <br />
-          <a href="#brush-teeth-hard-with-a-hard-brush">2. Brush teeth hard with a hard brush</a>
+          <a href="#brush-teeth-hard-with-a-hard-brush"
+            >2. Brush teeth hard with a hard brush</a
+          >
           <br />
-          <a href="#A-thorough-gentle-brushing">3. A thorough, gentle brushing</a>
+          <a href="#A-thorough-gentle-brushing"
+            >3. A thorough, gentle brushing</a
+          >
           <br />
-          <a href="#stroke-clean-with-a-hydrosonic">4. Stroke clean with a Hydrosonic</a>
+          <a href="#stroke-clean-with-a-hydrosonic"
+            >4. Stroke clean with a Hydrosonic</a
+          >
           <br />
-          <a href="#brush-in-the-interdental-spaces">5. Brush in the interdental spaces</a>
+          <a href="#brush-in-the-interdental-spaces"
+            >5. Brush in the interdental spaces</a
+          >
           <br />
-          <a href="#brush-with-the-solo-technique">6. Brush with ‘the solo technique’</a>
+          <a href="#brush-with-the-solo-technique"
+            >6. Brush with ‘the solo technique’</a
+          >
           <br />
           <a href="#further-information">Further information</a>
         </div>
       </div>
-      <div class="col col-md-9 q-pl-md q-pb-xl">
+      <div class="col col-xs-12 col-sm-9 q-px-md q-pb-xl main-content">
         <div style="display: block;">
           <h4>WHY THIS GUIDE?</h4>
           <h2>HOW TO KEEP YOUR TEETH CLEAN</h2>
@@ -66,7 +78,9 @@
             </li>
           </ul>
           <h4>INTRODUCTION</h4>
-          <h2 id="why-are-clean-teeth-so-important">WHY ARE CLEAN TEETH SO IMPORTANT?</h2>
+          <h2 id="why-are-clean-teeth-so-important">
+            WHY ARE CLEAN TEETH SO IMPORTANT?
+          </h2>
 
           <img
             src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/70/need-post-cleen-teeth-lily-2-800x480.jpg"
@@ -311,13 +325,13 @@
             <li>Perfect with manual and sonic toothbrushes</li>
           </ul>
           <p>We recommend:</p>
-
-          <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/70/curaprox-related-product-cs-5460-drio-300x250.jpg"
-            alt=""
+          <TextBlockWithImg
+            img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/70/curaprox-related-product-cs-5460-drio-300x250.jpg"
+            h2Text="CURAPROX CS 5460 TOOTHBRUSH"
+            h3Text=""
           />
 
-          <h2>CURAPROX CS 5460 TOOTHBRUSH</h2>
+          <h2></h2>
           <p>
             <a href="https://curaprox.ch/en/info/toothbrushes/cs-5460"
               >Learn more</a

@@ -17,6 +17,11 @@ export default {
 </script>
 
 <style lang="scss">
+.none-display {
+  @media (max-width: 599px) {
+    display: none;
+  }
+}
 .sticky-left-blog {
     position: -webkit-sticky;
     position: sticky;

@@ -25,7 +25,7 @@
       </p>
     </div>
     <div class="row home blog">
-      <div class="col col-md-3 q-pr-md padding">  
+      <div class="col col-sm-3 q-pr-md padding none-display">  
         <div class="sticky-left-blog">
           <h3>Why this guide?</h3>
           <br />
@@ -39,7 +39,7 @@
           <br />
         </div>
       </div>
-      <div class="col col-md-9 q-pl-md q-pb-xl">
+      <div class="col col-xs-12 col-sm-9 q-px-md q-pb-xl main-content none-display">
         <div class="text-left desctxt" style="display: block;">
           <h2>IS WHITENING YOUR TEETH BAD?</h2>
           

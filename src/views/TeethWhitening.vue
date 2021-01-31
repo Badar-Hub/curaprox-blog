@@ -25,29 +25,29 @@
       </p>
     </div>
     <div class="row home blog">
-      <div class="col col-sm-3 q-pr-md padding none-display">  
+      <div class="col col-sm-3 q-pr-md padding none-display">
         <div class="sticky-left-blog">
           <h3>Why this guide?</h3>
           <br />
-          <h3>The best teeth whitening toothpaste</h3>
+          <a href="#">The best teeth whitening toothpaste</a>
           <br />
-          <h3>Whitening toothpaste that works - gently and effectively</h3>
+          <a href="#">Whitening toothpaste that works - gently and effectively</a>
           <br />
-          <h3>Activated charcoal teeth whitening toothpaste for effective tooth care</h3>
-          <br />
-          <h3>How to brush your teeth</h3>
+          <a href="#">How to brush your teeth</a>
           <br />
         </div>
       </div>
-      <div class="col col-xs-12 col-sm-9 q-px-md q-pb-xl main-content none-display">
+      <div
+        class="col col-xs-12 col-sm-9 q-px-md q-pb-xl main-content none-display"
+      >
         <div class="text-left desctxt" style="display: block;">
           <h2>IS WHITENING YOUR TEETH BAD?</h2>
-          
-            <img
-              src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/curaprox-whitening-bad-576x540-web.png"
-              alt=""
-            />
-          
+
+          <img
+            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/curaprox-whitening-bad-576x540-web.png"
+            alt=""
+          />
+
           <p>&nbsp;</p>
           <h3>The difference between teeth whitening and teeth bleaching</h3>
           <p>
@@ -99,12 +99,12 @@
             healthy.
           </p>
           <h2><br /><br />THE BEST TEETH WHITENING TOOTHPASTE</h2>
-          
-            <img
-              src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/curaprox-whitening-BeYou-colors-576x540-web.jpg"
-              alt=""
-            />
-          
+
+          <img
+            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/curaprox-whitening-BeYou-colors-576x540-web.jpg"
+            alt=""
+          />
+
           <p>&nbsp;</p>
           <h3>Can toothpaste actually whiten teeth?</h3>
           <p>
@@ -142,41 +142,29 @@
             naturally.<br /><br />Which toothpaste do dentists recommend?
           </p>
           <p>Introducing:</p>
-          
-            <img
-              src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/curaprox-related-product-toothpaste-beyou-400x250-web-new.jpg"
-              alt=""
-            />
-          
-          <h2>CURAPROX [BE YOU.]</h2>
-          <p>
-            <a
-              href="https://curaprox.ch/en/shop/toothpaste/whitening-toothpaste"
-              >Buy</a
-            >
-          </p>
-          
-            <img
-              src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/curaprox-related-product-toothpaste-biw-400x250-web.jpg"
-              alt=""
-            />
-          
-          <h2>CURAPROX BLACK IS WHITE</h2>
-          <p>
-            <a
-              href="https://curaprox.ch/en/shop/toothpaste/activated-carbon-toothpaste/black-is-white-90-ml"
-              >Buy</a
-            >
-          </p>
+
+          <TextBlockWithImg
+            img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/curaprox-related-product-toothpaste-beyou-400x250-web-new.jpg"
+            h3Text="CURAPROX [BE YOU.]"
+          />
+          <TextBlockWithImg
+            img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/curaprox-related-product-toothpaste-biw-400x250-web.jpg"
+            h3Text="CURAPROX BLACK IS WHITE"
+          />
+
           <h2>
             <br /><br />WHITENING TOOTHPASTE THAT WORKS - GENTLY AND EFFECTIVELY
           </h2>
-          
-            <img
-              src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/curaprox-whitening-BeYou-pink-576x540-web.jpg"
-              alt=""
-            />
-          
+
+          <TextBlockWithImg
+            img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/curaprox-related-product-toothpaste-biw-400x250-web.jpg"
+            h3Text="CURAPROX BLACK IS WHITE"
+          />
+          <img
+            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/curaprox-whitening-BeYou-pink-576x540-web.jpg"
+            alt=""
+          />
+
           <p>&nbsp;</p>
           <h3>
             CURAPROX [BE YOU.] – Gentle everyday whitening. Zesty, fresh
@@ -210,29 +198,22 @@
             </li>
           </ul>
           <p>We recommend:</p>
-          
-            <img
-              src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/curaprox-related-product-toothpaste-beyou-400x250-web-new.jpg"
-              alt=""
-            />
-          
-          <h2>CURAPROX [BE YOU.]</h2>
-          <p>
-            <a
-              href="https://curaprox.ch/en/shop/toothpaste/whitening-toothpaste"
-              >Buy</a
-            >
-          </p>
+
+          <TextBlockWithImg
+            img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/curaprox-related-product-toothpaste-beyou-400x250-web-new.jpg"
+            h3Text="CURAPROX [BE YOU.]"
+          />
+
           <h2>
             <br /><br />ACTIVATED CHARCOAL TEETH WHITENING TOOTHPASTE FOR
             EFFECTIVE TOOTH CARE
           </h2>
-          
-            <img
-              src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/need-whitening-biw-576x540-web.jpg"
-              alt=""
-            />
-          
+
+          <img
+            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/need-whitening-biw-576x540-web.jpg"
+            alt=""
+          />
+
           <p>&nbsp;</p>
           <h3>
             CURAPROX Black Is White whitening toothpaste – Goodbye stains. Hello
@@ -258,28 +239,21 @@
             <li>… and with a lemon-minty-fresh flavour</li>
           </ul>
           <p>We recommend:</p>
-          
-            <img
-              src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/curaprox-related-product-toothpaste-biw-400x250-web.jpg"
-              alt=""
-            />
-          
-          <h2>CURAPROX BLACK IS WHITE</h2>
-          <p>
-            <a
-              href="https://curaprox.ch/en/shop/toothpaste/activated-carbon-toothpaste/black-is-white-90-ml"
-              >Buy</a
-            >
-          </p>
+
+          <TextBlockWithImg
+            img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/curaprox-related-product-toothpaste-biw-400x250-web.jpg"
+            h3Text="CURAPROX BLACK IS WHITE"
+          />
+
           <h2>
             <br /><br /><strong>HOW TO BRUSH YOUR TEETH</strong><br />&nbsp;
           </h2>
-          
-            <img
-              src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/curaprox-whitening-toothbrusgh-576x540-web.png"
-              alt=""
-            />
-          
+
+          <img
+            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/curaprox-whitening-toothbrusgh-576x540-web.png"
+            alt=""
+          />
+
           <p>&nbsp;</p>
           <p>
             Using a gentle, effective toothbrush with&nbsp;<a
@@ -297,12 +271,12 @@
             <br />Is the iconic CS 5460 the gentlest, most effective toothbrush
             in the world?
           </h3>
-          
-            <img
-              src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/curaprox-whitening-cs5460-576x540-web.jpg"
-              alt=""
-            />
-          
+
+          <img
+            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/curaprox-whitening-cs5460-576x540-web.jpg"
+            alt=""
+          />
+
           <p>&nbsp;</p>
           <p>
             The
@@ -322,12 +296,12 @@
             <br />CURAPROX Black Is White Hydrosonic. Carbon brush heads.
             Effective whitening.
           </h3>
-          
-            <img
-              src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/curaprox-whitening-biw-sonic-576x540-web.jpg"
-              alt=""
-            />
-          
+
+          <img
+            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/curaprox-whitening-biw-sonic-576x540-web.jpg"
+            alt=""
+          />
+
           <p>&nbsp;</p>
           <p>
             If you prefer electric toothbrushes… try the
@@ -381,12 +355,12 @@
               >Buy</a
             >
           </p>
-          
-            <img
-              src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/curaprox-related-product-sonic-toothbrush-biw-400x250-web.jpg"
-              alt=""
-            />
-          
+
+          <img
+            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/curaprox-related-product-sonic-toothbrush-biw-400x250-web.jpg"
+            alt=""
+          />
+
           <h2>CURAPROX BLACK IS WHITE HYDROSONIC SONIC TOOTHBRUSH</h2>
           <p>
             <a
@@ -397,13 +371,11 @@
               >Buy</a
             >
           </p>
-          
-            <img
-              src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/curaprox-related-product-idb-300x250.jpg"
-              alt=""
-            />
-          
-          <h2>CURAPROX CPS PRIME INTERDENTAL BRUSHES</h2>
+
+          <TextBlockWithImg
+            img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/curaprox-related-product-idb-300x250.jpg"
+            h3Text="CURAPROX CPS PRIME INTERDENTAL BRUSHES"
+          />
         </div>
       </div>
     </div>
@@ -413,14 +385,16 @@
 
 <script>
 import Header from "../components/layout/Header";
+import TextBlockWithImg from "../components/General/txtImg";
 import Footer from "../components/layout/Footer";
 // @ is an alias to /src
 
 export default {
   components: {
     Header,
-    Footer,
-  },
+    TextBlockWithImg,
+    Footer
+  }
 };
 </script>
 <style lang="scss" scoped>

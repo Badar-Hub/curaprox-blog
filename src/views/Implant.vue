@@ -108,34 +108,16 @@
             – give you the best possible start:
           </p>
 
-          <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/60/curaprox-recommend-cs-5460-300x250.jpg"
-            alt=""
+          <TextBlockWithImg
+            img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/60/curaprox-recommend-cs-5460-300x250.jpg"
+            h3Text="CURAPROX CS 5460 TOOTHBRUSH"
           />
 
-          <h2>CURAPROX CS 5460 TOOTHBRUSH</h2>
-          <p>
-            <a href="https://curaprox.ch/en/info/toothbrushes/cs-5460"
-              >Learn more</a
-            ><a
-              href="https://curaprox.ch/en/shop/toothbrushes/manual-toothbrushes/cs-5460"
-              >Buy</a
-            >
-          </p>
-
-          <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/60/curaprox-recommend-cps-prime-300x250.jpg"
-            alt=""
+          <TextBlockWithImg
+            img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/60/curaprox-recommend-cps-prime-300x250.jpg"
+            h3Text="CURAPROX CPS PRIME INTERDENTAL BRUSHES"
           />
 
-          <h2>CURAPROX CPS PRIME INTERDENTAL BRUSHES</h2>
-          <p>
-            <a href="https://curaprox.ch/en/info/interdental">Learn more</a
-            ><a
-              href="https://curaprox.ch/en/shop/interdental/interdental-brushes"
-              >Buy</a
-            >
-          </p>
           <h4>STEP TWO</h4>
           <h2>INTERDENTAL BRUSHES</h2>
 
@@ -279,18 +261,11 @@
           </p>
           <h3>We recommend:</h3>
 
-          <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/60/curaprox-recommend-product-cs-708-300x250.jpg"
-            alt=""
+          <TextBlockWithImg
+            img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/60/curaprox-recommend-product-cs-708-300x250.jpg"
+            h3Text="CURAPROX CS 708 IMPLANT TOOTHBRUSH"
           />
 
-          <h2>CURAPROX CS 708 IMPLANT TOOTHBRUSH</h2>
-          <p>
-            <a
-              href="https://curaprox.ch/en/shop/toothbrushes/implant-toothbrushes/cs-708-implant-toothbrush"
-              >Buy</a
-            >
-          </p>
           <h4>STEP FOUR</h4>
           <h2>SONIC TOOTHBRUSHES FOR IMPLANTS</h2>
 
@@ -357,18 +332,11 @@
           </p>
           <h3>We recommend:</h3>
 
-          <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/60/curaprox-recommend-sonic-toothbrush-pro-300x250.jpg"
-            alt=""
+          <TextBlockWithImg
+            img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/60/curaprox-recommend-sonic-toothbrush-pro-300x250.jpg"
+            h3Text="CURAPROX HYDROSONIC PRO SONIC TOOTHBRUSH"
           />
 
-          <h2>CURAPROX HYDROSONIC PRO SONIC TOOTHBRUSH</h2>
-          <p>
-            <a
-              href="https://curaprox.ch/en/shop/sonic-toothbrush/hydrosonic/hydrosonic-pro-set"
-              >Buy</a
-            >
-          </p>
           <h4>FURTHER INFORMATION</h4>
           <h2>DENTAL IMPLANT RISKS</h2>
 
@@ -449,30 +417,16 @@
           </p>
           <h3>We recommend:</h3>
 
-          <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/60/curaprox-recommend-perioplus-forte-300x250.jpg"
-            alt=""
+          <TextBlockWithImg
+            img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/60/curaprox-recommend-perioplus-forte-300x250.jpg"
+            h3Text="CURAPROX PERIO PLUS+ FORTE"
           />
 
-          <h2>CURAPROX PERIO PLUS+ FORTE</h2>
-          <p>
-            <a href="https://curaprox.ch/en/shop/dental-care/perioplus-forte"
-              >Buy</a
-            >
-          </p>
-
-          <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/60/curaprox-recommend-perioplus-regenerate-300x250.jpg"
-            alt=""
+          <TextBlockWithImg
+            img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/60/curaprox-recommend-perioplus-regenerate-300x250.jpg"
+            h3Text="CURAPROX PERIO PLUS+ REGENERATE"
           />
 
-          <h2>CURAPROX PERIO PLUS+ REGENERATE</h2>
-          <p>
-            <a
-              href="https://curaprox.ch/en/shop/oral-rinses-and-gels/oral-rinses/perioplus-regenerate"
-              >Buy</a
-            >
-          </p>
           <h2>ASK YOUR DENTIST</h2>
           <ul>
             <li>
@@ -494,12 +448,14 @@
 
 <script>
 import Header from "../components/layout/Header";
+import TextBlockWithImg from "../components/General/txtImg"
 import Footer from "../components/layout/Footer";
 // @ is an alias to /src
 
 export default {
   components: {
     Header,
+    TextBlockWithImg,
     Footer
   }
 };

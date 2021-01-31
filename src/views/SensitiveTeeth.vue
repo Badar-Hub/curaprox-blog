@@ -245,18 +245,11 @@
           </p>
           <h3>We recommend:</h3>
 
-          <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/61/curaprox-related-product-toothpaste-beyou-400x250.png"
-            alt=""
+          <TextBlockWithImg
+            img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/61/curaprox-related-product-toothpaste-beyou-400x250.png"
+            h3Text="CURAPROX [BE YOU.] TOOTHPASTE"
           />
 
-          <h2>CURAPROX [BE YOU.] TOOTHPASTE</h2>
-          <p>
-            <a
-              href="https://curaprox.ch/en/shop/toothpaste/whitening-toothpaste"
-              >Buy</a
-            >
-          </p>
           <h4>STEP THREE</h4>
           <h2>TOOTHBRUSHES &amp; INTERDENTALS</h2>
 
@@ -400,57 +393,23 @@
           </p>
           <h3><br />We recommend:</h3>
 
-          <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/61/curaprox-related-product-cs-5460-drio-300x250.jpg"
-            alt=""
+          <TextBlockWithImg
+            img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/61/curaprox-related-product-cs-5460-drio-300x250.jpg"
+            h3Text="CURAPROX CS 5460 TOOTHBRUSH"
+          />
+          <TextBlockWithImg
+            img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/61/curaprox-related-product-sonic-toothbrush-pro-400x250.png"
+            h3Text="CURAPROX HYDROSONIC PRO SONIC TOOTHBRUSH"
+          />
+          <TextBlockWithImg
+            img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/61/curaprox-related-product-toothbrush-single-300x250.jpg"
+            h3Text="CURAPROX CS 1006 SINGLE BRUSH"
+          />
+          <TextBlockWithImg
+            img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/61/curaprox-related-product-idb-300x250.jpg"
+            h3Text="CURAPROX CPS PRIME INTERDENTAL BRUSHES"
           />
 
-          <h2>CURAPROX CS 5460 TOOTHBRUSH</h2>
-          <p>
-            <a
-              href="https://curaprox.ch/en/shop/toothbrushes/manual-toothbrushes/cs-5460"
-              >Buy</a
-            >
-          </p>
-
-          <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/61/curaprox-related-product-sonic-toothbrush-pro-400x250.png"
-            alt=""
-          />
-
-          <h2>CURAPROX HYDROSONIC PRO SONIC TOOTHBRUSH</h2>
-          <p>
-            <a
-              href="https://curaprox.ch/en/shop/sonic-toothbrush/hydrosonic/hydrosonic-pro-set"
-              >Buy</a
-            >
-          </p>
-
-          <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/61/curaprox-related-product-toothbrush-single-300x250.jpg"
-            alt=""
-          />
-
-          <h2>CURAPROX CS 1006 SINGLE BRUSH</h2>
-          <p>
-            <a
-              href="https://curaprox.ch/en/shop/toothbrushes/single-tuft-toothbrushes/cs-1006"
-              >Buy</a
-            >
-          </p>
-
-          <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/61/curaprox-related-product-idb-300x250.jpg"
-            alt=""
-          />
-
-          <h2>CURAPROX CPS PRIME INTERDENTAL BRUSHES</h2>
-          <p>
-            <a
-              href="https://curaprox.ch/en/shop/interdental/interdental-brushes"
-              >Buy</a
-            >
-          </p>
           <h4>FURTHER INFORMATION</h4>
           <h2>ASK YOUR DENTIST</h2>
           <p>
@@ -468,12 +427,14 @@
 
 <script>
 import Header from "../components/layout/Header";
+import TextBlockWithImg from "../components/General/txtImg";
 import Footer from "../components/layout/Footer";
 // @ is an alias to /src
 
 export default {
   components: {
     Header,
+    TextBlockWithImg,
     Footer
   }
 };

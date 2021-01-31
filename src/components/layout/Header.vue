@@ -21,8 +21,8 @@
           <nav>
             <ul>
               <li>
-                <router-link class="font-futura-semi-bold" to="/Toothbrush"
-                  >TOOTHBRUSHES</router-link
+                <a class="font-futura-semi-bold" href="curaprox.cf/#/Toothbrush"
+                  >TOOTHBRUSHES</a
                 >
               </li>
               <li>
@@ -105,9 +105,9 @@
           </nav>
         </div>
       </div>
-      <div class="sub-bar">
+      <div class="sub-bar sticky-left-blog">
         <hr />
-        <div class="sub-bar-inner">
+        <div class="sub-bar-inner sticky-left-blog">
           <ul>
             <slot></slot>
           </ul>

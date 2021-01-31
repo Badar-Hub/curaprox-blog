@@ -232,15 +232,22 @@
             well.”
           </p>
 
-          <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/71/Screenshot2019-10-03at131747.png"
-            alt=""
-          />
+          <div
+            style="background-color:#f9f9f9;border-radius:4%; max-width:600px"
+            class="row justify-between q-px-sm"
+          >
+            <img
+              class="q-my-md"
+              style="max-width:120px; border-radius:45%"
+              src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/71/Screenshot2019-10-03at131747.png"
+              alt=""
+            />
 
-          <p>
-            <strong>Prof. Dr. med. dent. Ueli P. Saxer.</strong
-            ><br />Co-developer&nbsp;of the Hydrosonic Pro with CURAPROX
-          </p>
+            <p class="q-my-auto">
+              <strong>Prof. Dr. med. dent. Ueli P. Saxer.</strong
+              ><br />Co-developer&nbsp;of the Hydrosonic Pro with CURAPROX
+            </p>
+          </div>
           <p>
             The&nbsp;<a
               href="https://curaprox.ch/en/shop/sonic-toothbrush/hydrosonic/hydrosonic-pro-set"
@@ -317,44 +324,19 @@
           </ul>
           <p>We recommend:</p>
 
-          <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/71/curaprox-product-cs-ortho-300x250.jpg"
-            alt=""
+          <TextBlockWithImg
+            img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/71/curaprox-product-cs-ortho-300x250.jpg"
+            h3Text="CURAPROX CS 5460 ORTHO TOOTHBRUSH"
+          />
+          <TextBlockWithImg
+            img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/71/curaprox--product-sonic-toothbrush-pro-300x250.jpg"
+            h3Text="CURAPROX HYDROSONIC PRO SONIC TOOTHBRUSH"
+          />
+          <TextBlockWithImg
+            img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/71/curaprox-related-product-beyou-300x250.jpg"
+            h3Text="CURAPROX [BE YOU.] TOOTHPASTE"
           />
 
-          <h2>CURAPROX CS&nbsp;5460 ORTHO TOOTHBRUSH</h2>
-          <p>
-            <a
-              href="https://curaprox.ch/en/shop/toothbrushes/ortho-toothbrushes/cs-5460-ortho"
-              >Buy</a
-            >
-          </p>
-
-          <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/71/curaprox--product-sonic-toothbrush-pro-300x250.jpg"
-            alt=""
-          />
-
-          <h2>CURAPROX HYDROSONIC PRO SONIC TOOTHBRUSH</h2>
-          <p>
-            <a
-              href="https://curaprox.ch/en/shop/sonic-toothbrush/hydrosonic/hydrosonic-pro-set"
-              >Buy</a
-            >
-          </p>
-
-          <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/71/curaprox-related-product-beyou-300x250.jpg"
-            alt=""
-          />
-
-          <h2>CURAPROX [BE YOU.] TOOTHPASTE</h2>
-          <p>
-            <a
-              href="https://curaprox.ch/en/shop/toothpaste/whitening-toothpaste"
-              >Buy</a
-            >
-          </p>
           <p>&nbsp;</p>
           <h4>STEP TWO</h4>
           <h2 id="use-a-specialist-brush">USE A SPECIALIST BRUSH&nbsp;</h2>
@@ -428,18 +410,11 @@
           </ul>
           <p>We recommend:</p>
 
-          <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/71/curaprox-related-product-cs-708-300x250.jpg"
-            alt=""
+          <TextBlockWithImg
+            img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/71/curaprox-related-product-beyou-300x250.jpg"
+            h3Text="CURAPROX CS 708 IMPLANT TOOTHBRUSH"
           />
 
-          <h2>CURAPROX CS 708 IMPLANT TOOTHBRUSH</h2>
-          <p>
-            <a
-              href="https://curaprox.ch/en/shop/toothbrushes/implant-toothbrushes/cs-708-implant-toothbrush"
-              >Buy</a
-            >
-          </p>
           <p>&nbsp;</p>
           <h4>STEP THREE</h4>
           <h2 id="try-these-interdental-brushes">
@@ -509,44 +484,21 @@
           </p>
           <p><strong>We recommend:</strong></p>
 
-          <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/71/CPS14-interdental-brush-001.jpg"
-            alt=""
+          <TextBlockWithImg
+            img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/71/CPS14-interdental-brush-001.jpg"
+            h3Text="CURAPROX CPS 14 INTERDENTAL BRUSHES"
           />
 
-          <h2>CURAPROX CPS 14 INTERDENTAL BRUSHES</h2>
-          <p>
-            <a
-              href="https://curaprox.ch/en/shop/interdental/interdental-brushes/cps-regular-14-conique-refill"
-              >Buy</a
-            >
-          </p>
-
-          <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/71/CPS18-interdental-brush-001.jpg"
-            alt=""
+          <TextBlockWithImg
+            img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/71/CPS18-interdental-brush-001.jpg"
+            h3Text="CURAPROX CPS 18 INTERDENTAL BRUSHES"
           />
 
-          <h2>CURAPROX CPS 18 INTERDENTAL BRUSHES</h2>
-          <p>
-            <a
-              href="https://curaprox.ch/en/shop/interdental/interdental-brushes/cps-regular-18-refill"
-              >Buy</a
-            >
-          </p>
-
-          <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/71/CPS-022_5eb25a396c650.jpg"
-            alt=""
+          <TextBlockWithImg
+            img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/71/CPS-022_5eb25a396c650.jpg"
+            h3Text="CURAPROX CPS PRIME INTERDENTAL BRUSHES"
           />
 
-          <h2>CURAPROX CPS PRIME INTERDENTAL BRUSHES</h2>
-          <p>
-            <a
-              href="https://curaprox.ch/en/shop/interdental/interdental-brushes"
-              >Buy</a
-            >
-          </p>
           <p>&nbsp;</p>
           <h4>STEP FOUR</h4>
           <h2 id="get-some-extra-help">GET SOME EXTRA HELP</h2>
@@ -617,56 +569,26 @@
             provide additional protection when proper oral care is more
             difficult. Ask your dentist before using this product.<br /><br /><br />&nbsp;
           </p>
-          <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/71/Ortho-wax-001.jpg"
-            alt=""
-          />
-          <h2>CURAPROX&nbsp;ORTHO-WAX</h2>
-          <p>
-            <a
-              href="https://curaprox.ch/en/shop/dental-care/ortho-care/ortho-wax"
-              >Buy</a
-            >
-          </p>
 
-          <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/71/curaprox-product-plaquefinder-300x250.jpg"
-            alt=""
+          <TextBlockWithImg
+            img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/71/Ortho-wax-001.jpg"
+            h3Text="CURAPROX ORTHO-WAX"
+          />
+          <TextBlockWithImg
+            img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/71/curaprox-product-plaquefinder-300x250.jpg"
+            h3Text="CURAPROX PLAQUEFINDER"
           />
 
-          <h2>CURAPROX&nbsp;PLAQUEFINDER</h2>
-          <p>
-            <a
-              href="https://curaprox.ch/en/shop/dental-care/pca-223-plaquefinder"
-              >Buy</a
-            >
-          </p>
-
-          <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/71/curaprox-related-product-pocket-set-300x250.jpg"
-            alt=""
+          <TextBlockWithImg
+            img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/71/curaprox-related-product-pocket-set-300x250.jpg"
+            h3Text="CURAPROX ORTHO POCKET-SET"
           />
 
-          <h2>CURAPROX ORTHO POCKET-SET</h2>
-          <p>
-            <a
-              href="https://curaprox.ch/en/shop/dental-care/ortho-care/ortho-pocket-set"
-              >Buy</a
-            >
-          </p>
-
-          <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/71/curaprox-related-product-perioplus-300x250.jpg"
-            alt=""
+          <TextBlockWithImg
+            img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/71/curaprox-related-product-perioplus-300x250.jpg"
+            h3Text="CURAPROX PERIO PLUS+ BALANCE"
           />
 
-          <h2>CURAPROX&nbsp;PERIO PLUS+ BALANCE</h2>
-          <p>
-            <a
-              href="https://curaprox.ch/en/shop/oral-rinses-and-gels/oral-rinses/perioplus-balance"
-              >Buy</a
-            >
-          </p>
           <p>&nbsp;</p>
           <h4>STEP FIVE</h4>
           <h2 id="care-for-your-removable-braces">
@@ -692,18 +614,11 @@
             expensive appliances will also last longer!
           </p>
 
-          <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/71/curaprox-related-product-bdc-300x250.jpg"
-            alt=""
+          <TextBlockWithImg
+            img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/71/curaprox-related-product-bdc-300x250.jpg"
+            h3Text="CURAPROX BDC"
           />
 
-          <h2>CURAPROX&nbsp;BDC</h2>
-          <p>
-            <a
-              href="https://curaprox.ch/en/shop/dental-care/denture-care-and-braces-care/bdc-cleaning-set"
-              >Buy</a
-            >
-          </p>
           <p>&nbsp;</p>
           <h2 id="further-information">FURTHER INFORMATION</h2>
           <p>
@@ -719,14 +634,16 @@
 
 <script>
 import Header from "../components/layout/Header";
+import TextBlockWithImg from "../components/General/txtImg";
 import Footer from "../components/layout/Footer";
 // @ is an alias to /src
 
 export default {
   components: {
     Header,
-    Footer,
-  },
+    TextBlockWithImg,
+    Footer
+  }
 };
 </script>
 <style lang="scss" scoped>

@@ -31,7 +31,9 @@
           <br />
           <a href="#">The best teeth whitening toothpaste</a>
           <br />
-          <a href="#">Whitening toothpaste that works - gently and effectively</a>
+          <a href="#"
+            >Whitening toothpaste that works - gently and effectively</a
+          >
           <br />
           <a href="#">How to brush your teeth</a>
           <br />
@@ -44,7 +46,7 @@
           <h2>IS WHITENING YOUR TEETH BAD?</h2>
 
           <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/curaprox-whitening-bad-576x540-web.png"
+            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/curaprox-whitening-bad-1200x600-web.png"
             alt=""
           />
 
@@ -101,7 +103,7 @@
           <h2><br /><br />THE BEST TEETH WHITENING TOOTHPASTE</h2>
 
           <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/curaprox-whitening-BeYou-colors-576x540-web.jpg"
+            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/curaprox-whitening-BeYou-colors-1200x600-web.jpg"
             alt=""
           />
 
@@ -156,12 +158,8 @@
             <br /><br />WHITENING TOOTHPASTE THAT WORKS - GENTLY AND EFFECTIVELY
           </h2>
 
-          <TextBlockWithImg
-            img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/curaprox-related-product-toothpaste-biw-400x250-web.jpg"
-            h3Text="CURAPROX BLACK IS WHITE"
-          />
           <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/curaprox-whitening-BeYou-pink-576x540-web.jpg"
+            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/curaprox-whitening-BeYou-pink-1200x600-web.jpg"
             alt=""
           />
 
@@ -210,7 +208,7 @@
           </h2>
 
           <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/need-whitening-biw-576x540-web.jpg"
+            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/need-whitening-biw-1200x600-web.jpg"
             alt=""
           />
 
@@ -250,7 +248,7 @@
           </h2>
 
           <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/curaprox-whitening-toothbrusgh-576x540-web.png"
+            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/curaprox-whitening-tootbrush-1200x600-web.png"
             alt=""
           />
 
@@ -273,7 +271,7 @@
           </h3>
 
           <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/curaprox-whitening-cs5460-576x540-web.jpg"
+            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/curaprox-whitening-cs5460-1200x600-web.jpg"
             alt=""
           />
 
@@ -298,7 +296,7 @@
           </h3>
 
           <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/curaprox-whitening-biw-sonic-576x540-web.jpg"
+            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/curaprox-whitening-biw-sonic-1200x600-web.jpg"
             alt=""
           />
 
@@ -346,31 +344,13 @@
           </p>
           <p>We recommend:</p>
           <p>&nbsp;</p>
-          <h2>CURAPROX CS 5460 TOOTHBRUSH</h2>
-          <p>
-            <a href="https://curaprox.ch/en/info/toothbrushes/cs-5460"
-              >Learn more</a
-            ><a
-              href="https://curaprox.ch/en/shop/toothbrushes/manual-toothbrushes/cs-5460"
-              >Buy</a
-            >
-          </p>
 
-          <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/curaprox-related-product-sonic-toothbrush-biw-400x250-web.jpg"
-            alt=""
+          <TextBlockWithImg h3Text="CURAPROX CS 5460 TOOTHBRUSH" />
+
+          <TextBlockWithImg
+            img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/curaprox-related-product-sonic-toothbrush-biw-400x250-web.jpg"
+            h3Text="CURAPROX BLACK IS WHITE HYDROSONIC SONIC TOOTHBRUSH"
           />
-
-          <h2>CURAPROX BLACK IS WHITE HYDROSONIC SONIC TOOTHBRUSH</h2>
-          <p>
-            <a
-              href="https://curaprox.ch/en/info/sonic-toothbrushes/black-is-white-hydrosonic"
-              >Learn more</a
-            ><a
-              href="https://curaprox.ch/en/shop/sonic-toothbrush/hydrosonic/black-is-white-hydrosonic"
-              >Buy</a
-            >
-          </p>
 
           <TextBlockWithImg
             img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/64/curaprox-related-product-idb-300x250.jpg"
@@ -441,7 +421,6 @@ export default {
     padding-top: 75px;
   }
   img {
-    max-width: 1000px;
     width: 100%;
   }
 }

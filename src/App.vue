@@ -10,23 +10,28 @@ export default {
 
   data() {
     return {
-      leftDrawerOpen: false,
+      leftDrawerOpen: false
     };
-  },
+  }
 };
 </script>
 
 <style lang="scss">
+.sp-class-img {
+  padding: 30px;
+  width: 1200px;
+  margin: 0 auto;
+}
 .none-display {
   @media (max-width: 599px) {
     display: none;
   }
 }
 .sticky-left-blog {
-    position: -webkit-sticky;
-    position: sticky;
-    top: 0;
-    padding: 5px;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  padding: 5px;
 }
 
 @font-face {
@@ -108,15 +113,20 @@ export default {
 }
 
 .text-h3 {
-  font-size: 57px!important;
-  letter-spacing:8px!important;
+  font-size: 57px !important;
+  letter-spacing: 8px !important;
 }
 
 body {
   padding: 0;
   margin: 0;
 
-  h1, h2, h3, h4, h5, h6 {
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
     font-family: futura-bold;
     font-weight: 400;
     font-style: normal;
@@ -134,6 +144,4 @@ body {
     margin: auto 0 !important;
   }
 }
-
-
 </style>

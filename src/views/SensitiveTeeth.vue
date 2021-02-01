@@ -82,8 +82,7 @@
           <h3>What causes sensitive teeth?</h3>
 
           <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/61/need-sensitivity-grafik-lupe-576x540.png"
-            alt=""
+            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/61/need-sensitivity-grafik-lupe-1200x600.png"
           />
 
           <p>&nbsp;</p>
@@ -101,7 +100,7 @@
           <h3>How to prevent acid erosion on teeth</h3>
 
           <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/61/need-sensitivity-grafik-food-576x540.png"
+            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/61/need-sensitivity-grafik-food-1200x600.png"
             alt=""
           />
 
@@ -127,7 +126,7 @@
           <h2>SENSITIVE TEETH TOOTHPASTE</h2>
 
           <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/61/curaprox-whitening-BeYou-colors-576x540.jpg"
+            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/61/curaprox-whitening-BeYou-colors-1200x600.jpg"
             alt=""
           />
 
@@ -154,7 +153,7 @@
           <h3>What is best for sensitive teeth? Hydroxylapatite</h3>
 
           <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/61/need-sensitivity-grafik-smile-576x540.png"
+            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/61/need-sensitivity-grafik-smilke-1200x600.png"
             alt=""
           />
 
@@ -191,7 +190,7 @@
           </h3>
 
           <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/61/curaprox-whitening-bad-576x540.png"
+            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/61/curaprox-whitening-bad-1200x600.png"
             alt=""
           />
 
@@ -254,7 +253,7 @@
           <h2>TOOTHBRUSHES &amp; INTERDENTALS</h2>
 
           <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/61/need-sensitivity-toothbrush-interdental-576x540.jpg"
+            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/61/need-sensitivity-toothbrush-interdental-1200x600.jpg"
             alt=""
           />
 
@@ -329,7 +328,7 @@
           <h3>Solo brushing for precise care with sensitive, receding gums</h3>
 
           <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/61/curaprox-need-gumcare-single-576x540.png"
+            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/61/curaprox-need-gumcare-single-1200x600.png"
             alt=""
           />
 
@@ -365,7 +364,7 @@
           <h3>Use interdental brushes as part of your daily routine</h3>
 
           <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/61/need-sensitivity-grafik-interdental-576x540.jpg"
+            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/61/need-sensitivity-grafik-interdental-1200x600.jpg"
             alt=""
           />
 

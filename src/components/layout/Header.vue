@@ -21,33 +21,39 @@
           <nav>
             <ul>
               <li>
-                <a class="font-futura-semi-bold" href="curaprox.cf/#/Toothbrush"
+                <a
+                  class="font-futura-semi-bold"
+                  href="http://www.curaprox.cf/#/Toothbrush"
                   >TOOTHBRUSHES</a
                 >
               </li>
               <li>
-                <router-link class="font-futura-semi-bold" to="/BLACK-IS-WHITE"
-                  >TOOTHPASTE</router-link
-                >
-              </li>
-              <li>
-                <router-link
+                <a
                   class="font-futura-semi-bold"
-                  to="/InterdentalBrush"
-                  >INTERDENTAL</router-link
+                  href="http://www.curaprox.cf/#/BLACK-IS-WHITE"
+                  >TOOTHPASTE</a
                 >
               </li>
               <li>
-                <router-link class="font-futura-semi-bold" to="/MouthwashPerio"
-                  >MOUTHWASH</router-link
+                <a
+                  class="font-futura-semi-bold"
+                  href="http://www.curaprox.cf/#/InterdentalBrush"
+                  >INTERDENTAL</a
                 >
               </li>
               <li>
-                <router-link
+                <a
+                  class="font-futura-semi-bold"
+                  href="http://www.curaprox.cf/#/MouthwashPerio"
+                  >MOUTHWASH</a
+                >
+              </li>
+              <li>
+                <a
                   class="font-futura-semi-bold"
                   style="background-color:#0167b1; color: white; padding:6px; border-radius: 15%"
-                  to="/shop"
-                  >SHOP</router-link
+                  href="http://www.curaprox.cf/#/shop"
+                  >SHOP</a
                 >
               </li>
             </ul>
@@ -105,15 +111,19 @@
           </nav>
         </div>
       </div>
-      <div class="sub-bar sticky-left-blog">
-        <hr />
-        <div class="sub-bar-inner sticky-left-blog">
-          <ul>
-            <slot></slot>
-          </ul>
-          <span>
-            <button>BUY</button>
-          </span>
+      <div class="row sub-bar">
+        <div class="col col-xs-12">
+          <div class="sticky">
+            <hr />
+            <div class="sub-bar-inner">
+              <ul>
+                <slot></slot>
+              </ul>
+              <span>
+                <button>BUY</button>
+              </span>
+            </div>
+          </div>
         </div>
       </div>
     </header>
@@ -128,6 +138,12 @@ export default {
 </script>
 
 <style scoped>
+.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  padding: 5px;
+}
 svg {
   stroke: black;
   margin-right: 20px;

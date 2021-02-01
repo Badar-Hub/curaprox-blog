@@ -61,8 +61,7 @@
           <h2>WHAT IS GUM DISEASE?</h2>
 
           <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/65/curaprox-need-gumcare-disease-2-576x540.jpg"
-            alt=""
+            class="sp-class-img" src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/65/curaprox-need-gumcare-disease-2-900x450-web.jpg"
           />
 
           <p>&nbsp;</p>
@@ -101,8 +100,7 @@
           <h2>BRUSH THE RIGHT WAY</h2>
 
           <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/65/curaprox-need-gumcare-toothbrus-576x540-web.jpg"
-            alt=""
+            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/65/curaprox-need-gumcare-toothbrus-900x450-web.jpg"
           />
 
           <p>&nbsp;</p>
@@ -281,7 +279,7 @@
           </h3>
 
           <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/65/curaprox-need-gumcare-interdental-576x540-web.jpg"
+            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/65/curaprox-need-gumcare-interdental-900x450-web.jpg"
             alt=""
           />
 
@@ -429,7 +427,7 @@
           <h2>GUM CARE &amp; OVERALL HEALTH</h2>
 
           <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/65/curaprox-need-gumcare-fine-576x540-web.jpg"
+            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/65/curaprox-need-gumcare-fine-900x450-web.jpg"
             alt=""
           />
 

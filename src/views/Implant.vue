@@ -61,7 +61,7 @@
           <h2>ORAL HEALTH &amp; IMPLANTS</h2>
 
           <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/60/curaprox-need-oral-care-with-implants-step1-576x540.jpg"
+            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/60/curaprox-need-oral-care-with-implants-step1-1000x600.jpg"
             alt=""
           />
 
@@ -122,7 +122,7 @@
           <h2>INTERDENTAL BRUSHES</h2>
 
           <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/60/curaprox-need-oral-care-with-implants-step2-576x540.jpg"
+            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/60/curaprox-need-oral-care-with-implants-step2-1000-600.jpg"
             alt=""
           />
 
@@ -176,25 +176,23 @@
           <h3>Recommendations</h3>
           <p>For implants, we recommend:</p>
 
-          <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/60/curaprox-recommend-cps-softimplant-300x250.jpg"
-            alt=""
+          <TextBlockWithImg
+            img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/60/curaprox-recommend-cps-softimplant-300x250.jpg"
+            h3Text="CURAPROX CPS SOFT IMPLANT INTERDENTAL BRUSH"
           />
 
-          <h2>CURAPROX CPS SOFT IMPLANT INTERDENTAL BRUSH</h2>
           <p>For the whole mouth, we also recommend:</p>
 
-          <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/60/curaprox-recommend-cps-prime-300x250.jpg"
-            alt=""
+          <TextBlockWithImg
+            img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/60/curaprox-recommend-cps-prime-300x250.jpg"
+            h3Text="CURAPROX CPS PRIME INTERDENTAL BRUSHES"
           />
 
-          <h2>CURAPROX CPS PRIME INTERDENTAL BRUSHES</h2>
           <h4>STEP THREE</h4>
           <h2>DENTAL IMPLANT CLEANING TOOTHBRUSH</h2>
 
           <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/60/curaprox-need-oral-care-with-implants-step3-576x540.png"
+            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/60/curaprox-need-oral-care-with-implants-step3-1000x600.png"
             alt=""
           />
 
@@ -250,15 +248,23 @@
             gentle, circular motions.»
           </p>
 
-          <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/60/75822_Lewgoy-1200x675.jpg"
-            alt=""
-          />
+          <div
+            style="background-color:#f9f9f9;border-radius:4%; max-width:600px"
+            class="row justify-between q-px-sm"
+          >
+            <img
+              class="q-my-auto"
+              style="max-width:120px; border-radius:45%"
+              src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/60/75822_Lewgoy-1200x675.jpg"
+              alt=""
+            />
 
-          <p>
+            <p class="q-my-auto">
             <strong>Prof. Dr. Hugo Roberto Lewgoy (DDS, MSc, PhD)</strong
             ><br />Co-Developer of the CS 708
           </p>
+          </div>
+
           <h3>We recommend:</h3>
 
           <TextBlockWithImg
@@ -270,7 +276,7 @@
           <h2>SONIC TOOTHBRUSHES FOR IMPLANTS</h2>
 
           <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/60/curaprox-need-oral-care-with-implants-step4-576x540.png"
+            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/60/curaprox-need-oral-care-with-implants-step4-1000x600.png"
             alt=""
           />
 
@@ -321,15 +327,23 @@
             a CURAPROX Hydrosonic.»
           </p>
 
-          <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/60/Screenshot2019-10-03at131747.png"
-            alt=""
-          />
+          <div
+            style="background-color:#f9f9f9;border-radius:4%; max-width:700px"
+            class="row justify-between q-px-sm"
+          >
+            <img
+              class="q-my-auto"
+              style="max-width:120px; border-radius:45%"
+              src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/60/Screenshot2019-10-03at131747.png"
+              alt=""
+            />
 
-          <p>
+            <p class="q-my-auto">
             <strong>Prof. Dr. med. dent. Ueli P. Saxer.</strong><br />Co-founder
             of the CURAPROX Sonic Hydrodynamics Taskforce
           </p>
+          </div>
+
           <h3>We recommend:</h3>
 
           <TextBlockWithImg
@@ -341,7 +355,7 @@
           <h2>DENTAL IMPLANT RISKS</h2>
 
           <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/60/need-implant-perio-plus-576x540.jpg"
+            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/60/need-implant-perio-plus-1000x600.jpg"
             alt=""
           />
 

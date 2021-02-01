@@ -328,33 +328,13 @@
           <TextBlockWithImg
             img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/70/curaprox-related-product-cs-5460-drio-300x250.jpg"
             h2Text="CURAPROX CS 5460 TOOTHBRUSH"
-            h3Text=""
           />
 
-          <h2></h2>
-          <p>
-            <a href="https://curaprox.ch/en/info/toothbrushes/cs-5460"
-              >Learn more</a
-            ><a
-              href="https://curaprox.ch/en/shop/toothbrushes/manual-toothbrushes/cs-5460"
-              >Buy</a
-            >
-          </p>
-
-          <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/70/curaprox-related-product-toothpaste-beyou-400x250.png"
-            alt=""
+          <TextBlockWithImg
+            img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/70/curaprox-related-product-toothpaste-beyou-400x250.png"
+            h2Text="CURAPROX [BE YOU.] TOOTHPASTE"
           />
 
-          <h2>CURAPROX [BE YOU.] TOOTHPASTE</h2>
-          <p>
-            <a href="https://curaprox.ch/en/info/toothpaste/be-you"
-              >Learn more</a
-            ><a
-              href="https://curaprox.ch/en/shop/toothpaste/whitening-toothpaste"
-              >Buy</a
-            >
-          </p>
           <h4 id="stroke-clean-with-a-hydrosonic">METHOD 4</h4>
           <h2>STROKE CLEAN WITH A HYDROSONIC</h2>
 
@@ -387,25 +367,22 @@
             under braces particularly well.”
           </p>
 
-          <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/70/ulrichsaxer-head_large.jpg"
-            alt=""
-          />
+          <div
+            style="background-color:#f9f9f9;border-radius:4%; max-width:700px"
+            class="row justify-between q-px-sm"
+          >
+            <img
+              class="q-my-md"
+              style="max-width:120px; border-radius:45%"
+              src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/70/ulrichsaxer-head_large.jpg"
+              alt=""
+            />
 
-          <p>
-            <strong>Prof. Dr. med. dent. Ueli P. Saxer.</strong><br /><strong
-              >Founder of the first School for Dental Hygienists in
-              Switzerland&nbsp;</strong
-            >
-          </p>
-          <h3>
-            <br /><br />How to brush your teeth with the curaprox hydrosonic
-          </h3>
-
-          <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/70/cleen-teeth-hydrosonic-toothbrush-how-to-brush-800x480.jpg"
-            alt=""
-          />
+            <p class="q-my-auto">
+              <strong>Prof. Dr. med. dent. Ueli P. Saxer.</strong><br />
+              Founder of the first School for Dental Hygienists in Switzerlan
+            </p>
+          </div>
 
           <p>&nbsp;</p>
           <p>
@@ -458,37 +435,16 @@
           </p>
           <p><br />We recommend:</p>
 
-          <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/70/curaprox-related-product-sonic-toothbrush-easy-400x250.png"
-            alt=""
+          <TextBlockWithImg
+            img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/70/curaprox-related-product-sonic-toothbrush-easy-400x250.png"
+            h2Text="CURAPROX HYDROSONIC EASY SONIC TOOTHBRUSH"
           />
 
-          <h2>CURAPROX HYDROSONIC EASY SONIC TOOTHBRUSH</h2>
-          <p>
-            <a
-              href="https://curaprox.ch/en/info/sonic-toothbrushes/hydrosonic-easy"
-              >Learn more</a
-            ><a
-              href="https://curaprox.ch/en/shop/sonic-toothbrush/hydrosonic/hydrosonic-easy-set"
-              >Buy</a
-            >
-          </p>
-
-          <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/70/curaprox-related-product-sonic-toothbrush-pro-400x250.png"
-            alt=""
+          <TextBlockWithImg
+            img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/70/curaprox-related-product-sonic-toothbrush-pro-400x250.png"
+            h2Text="CURAPROX HYDROSONIC PRO SONIC TOOTHBRUSH"
           />
 
-          <h2>CURAPROX HYDROSONIC PRO SONIC TOOTHBRUSH</h2>
-          <p>
-            <a
-              href="https://curaprox.ch/en/info/sonic-toothbrushes/hydrosonic-pro"
-              >Learn more</a
-            ><a
-              href="https://curaprox.ch/en/shop/sonic-toothbrush/hydrosonic/hydrosonic-pro-set"
-              >Buy</a
-            >
-          </p>
           <h4 id="brush-in-the-interdental-spaces">METHOD 5</h4>
           <h2>BRUSH IN THE INTERDENTAL SPACES</h2>
 
@@ -562,20 +518,11 @@
           </ul>
           <p>We recommend:</p>
 
-          <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/70/curaprox-related-product-idb-300x250.jpg"
-            alt=""
+          <TextBlockWithImg
+            img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/70/curaprox-related-product-idb-300x250.jpg"
+            h2Text="CURAPROX CPS PRIME INTERDENTAL BRUSHES"
           />
 
-          <h2>CURAPROX CPS PRIME INTERDENTAL BRUSHES</h2>
-          <p>
-            <a href="https://curaprox.ch/en/info/interdental/interdental-brush"
-              >Learn more</a
-            ><a
-              href="https://curaprox.ch/en/shop/interdental/interdental-brushes"
-              >Buy</a
-            >
-          </p>
           <h4 id="brush-with-the-solo-technique">METHOD 6</h4>
           <h2>BRUSH WITH 'THE SOLO TECHNIQUE'</h2>
 
@@ -629,18 +576,11 @@
           </ul>
           <p>We recommend</p>
 
-          <img
-            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/70/curaprox-related-product-toothbrush-single-green-pink-300x250.jpg"
-            alt=""
+          <TextBlockWithImg
+            img="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/70/curaprox-related-product-toothbrush-single-green-pink-300x250.jpg"
+            h2Text="CURAPROX CS 1006 SINGLE BRUSH"
           />
 
-          <h2>CURAPROX CS 1006 SINGLE BRUSH</h2>
-          <p>
-            <a
-              href="https://curaprox.ch/en/shop/toothbrushes/single-tuft-toothbrushes/cs-1006"
-              >Buy</a
-            >
-          </p>
           <h4 id="further-information">FURTHER INFORMATION</h4>
           <h2>VISIT YOUR HYGIENIST</h2>
           <p>
@@ -687,12 +627,14 @@
 
 <script>
 import Header from "../components/layout/Header";
+import TextBlockWithImg from "../components/General/txtImg.vue";
 import Footer from "../components/layout/Footer";
 // @ is an alias to /src
 
 export default {
   components: {
     Header,
+    TextBlockWithImg,
     Footer
   }
 };

@@ -30,11 +30,17 @@
             >Replace your toothbrush regularly</a
           >
           <br />
-          <a href="#rinse-it-every-time-and-let-it-dry">Rinse it every time and let it dry</a>
+          <a href="#rinse-it-every-time-and-let-it-dry"
+            >Rinse it every time and let it dry</a
+          >
           <br />
-          <a href="#signs-of-wear-out-on-your-toothbrush">Signs of wear out on your toothbrush</a>
+          <a href="#signs-of-wear-out-on-your-toothbrush"
+            >Signs of wear out on your toothbrush</a
+          >
           <br />
-          <a href="#ditch-your-toothbrush-after-an-illness">Ditch your toothbrush after an illness</a>
+          <a href="#ditch-your-toothbrush-after-an-illness"
+            >Ditch your toothbrush after an illness</a
+          >
           <br />
         </div>
       </div>
@@ -59,13 +65,15 @@
             of bacteria, which tends to grow much faster in moist environments.
           </p>
           <h4>STEP ONE</h4>
-          <h2 id="rinse-it-every-time-and-let-it-dry">RINSE IT EVERY TIME AND LET IT DRY</h2>
-          
-            <img
-              src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/89/need-replace-toothbrush-drying-01-800x480.jpg"
-              alt=""
-            />
-          
+          <h2 id="rinse-it-every-time-and-let-it-dry">
+            RINSE IT EVERY TIME AND LET IT DRY
+          </h2>
+
+          <img
+            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/89/need-replace-toothbrush-drying-01-800x480.jpg"
+            alt=""
+          />
+
           <p>&nbsp;</p>
           <h3>
             It is important to rinse your toothbrush after every use under a
@@ -80,21 +88,29 @@
             properly, trapping moisture and creating the ideal environment for
             bacteria to thrive.
           </p>
-          
-            <img
-              src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/89/need-replace-toothbrush-position-800x800.jpg"
-              alt=""
-            />
-          
-          <h3>LEAVE YOUR BRUSH TO DRY IN UPRIGHT POSITION</h3>
+
+          <div class="row">
+            <div class="col col-xs-12 col-sm-6 q-my-auto">
+              <h2>LEAVE YOUR BRUSH TO DRY IN UPRIGHT POSITION</h2>
+            </div>
+            <div class="col col-xs-12 col-sm-6">
+              <img
+                style="max-width:450px; width:100%"
+                src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/89/need-replace-toothbrush-position-800x800.jpg"
+              />
+            </div>
+          </div>
+
           <h4>STEP TWO</h4>
-          <h2 id="signs-of-wear-out-on-your-toothbrush">SIGNS OF WEAR OUT ON YOUR TOOTHBRUSH</h2>
-          
-            <img
-              src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/89/CS5460_change-brush_09.jpg"
-              alt=""
-            />
-          
+          <h2 id="signs-of-wear-out-on-your-toothbrush">
+            SIGNS OF WEAR OUT ON YOUR TOOTHBRUSH
+          </h2>
+
+          <img
+            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/89/CS5460_change-brush_09.jpg"
+            alt=""
+          />
+
           <p>&nbsp;</p>
           <h3>You could be brushing your teeth too hard</h3>
           <p>
@@ -113,13 +129,19 @@
             applying too much pressure, which is the consequence of using a
             wrong cleaning technique.
           </p>
-          
-            <img
-              src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/89/need-replace-toothbrush-pressure-2-800x800.jpg"
-              alt=""
-            />
-          
-          <h3>TOO MUCH PRESSURE OR POOR CLEANING TECHNIQUE</h3>
+
+          <div class="row">
+            <div class="col col-xs-12 col-sm-6 q-my-auto">
+              <h2>TOO MUCH PRESSURE OR POOR CLEANING TECHNIQUE</h2>
+            </div>
+            <div class="col col-xs-12 col-sm-6">
+              <img
+                style="max-width:450px; width:100%"
+                src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/89/need-replace-toothbrush-pressure-2-800x800.jpg"
+              />
+            </div>
+          </div>
+
           <p>
             To be on the safe side, read the&nbsp;<a
               href="https://curaprox.ch/en/blog/post/clean-teeth-the-ultimate-guide"
@@ -130,13 +152,15 @@
             dentist or dental hygienist about the proper use of a toothbrush.
           </p>
           <h4>STEP THREE</h4>
-          <h2 id="ditch-your-toothbrush-after-an-illness">DITCH YOUR TOOTHBRUSH AFTER AN ILLNESS</h2>
-          
-            <img
-              src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/89/need-replace-toothbrush-thumbnail-virus-800x480.jpg"
-              alt=""
-            />
-          
+          <h2 id="ditch-your-toothbrush-after-an-illness">
+            DITCH YOUR TOOTHBRUSH AFTER AN ILLNESS
+          </h2>
+
+          <img
+            src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/89/need-replace-toothbrush-thumbnail-virus-800x480.jpg"
+            alt=""
+          />
+
           <p>&nbsp;</p>
           <p>
             If you’ve been under the weather recently, it’s a good idea to
@@ -146,13 +170,19 @@
             been suffering from a common cold or another infectious disease,
             don’t hesitate – just get a new one.
           </p>
-          
-            <img
-              src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/89/need-replace-toothbrush-illness-800x800.jpg"
-              alt=""
-            />
-          
-          <h3>DITCH YOUR TOOTHBRUSH AFTER AN ILLNES</h3>
+
+          <div class="row">
+            <div class="col col-xs-12 col-sm-6 q-my-auto">
+              <h2>DITCH YOUR TOOTHBRUSH AFTER AN ILLNES</h2>
+            </div>
+            <div class="col col-xs-12 col-sm-6">
+              <img
+                style="max-width:450px; width:100%"
+                src="https://curaprox.ch/modules/advancedcms/uploads/AdvancedCmsBlockTeaser/89/need-replace-toothbrush-illness-800x800.jpg"
+              />
+            </div>
+          </div>
+
           <h4>THREE THINGS TO REMEMBER</h4>
           <h2>
             A WORN-OUT TOOTHBRUSH DOES NOT CLEAN YOUR TEETH AS EFFECTIVELY
@@ -185,8 +215,8 @@ import Footer from "../components/layout/Footer";
 export default {
   components: {
     Header,
-    Footer,
-  },
+    Footer
+  }
 };
 </script>
 <style lang="scss" scoped>

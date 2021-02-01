@@ -26,7 +26,7 @@
           <br />
           <h2 class="q-my-xs">TAKING CARE OF YOUR GUMS: THE ULTIMATE GUIDE</h2>
         </div>
-        <div @click="teethWhitening()" style="cursor:pointer" class="q-pa-sm q-mx-auto">
+        <div @click="replaceToothbrush()" style="cursor:pointer" class="q-pa-sm q-mx-auto">
           <img
             class="img-small"
             src="@/assets/img/blog/need-replace-toothbrush-thumbnail-new-800x480.jpg"
@@ -175,6 +175,9 @@ export default {
     },
     teethWhitening(){
       this.$router.push("teeth-whitening")
+    },
+    replaceToothbrush(){
+      this.$router.push("how-often-should-you-replace-your-toothbrush")
     },
     implant(){
       this.$router.push("implant")
